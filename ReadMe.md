@@ -1,5 +1,10 @@
 <h2>Intersection with the Perp Operator</h2>S
-
+```math
+\begin{aligned}
+ y &= x+2 \\
+   &= 2+x
+\end{aligned}
+```
 <p> If vector 
 ```math
 u = \binom{x}{y}
