@@ -1,5 +1,5 @@
 <h2>Intersection with the Perp Operator</h2>S
-<a href="ReadMe.html">ReadMe.html</a>
+<a href="https://github.com/NarlinsWorld/segmentIntersection3\ReadMe.html">ReadMe.html</a>
 <p> If vector \[u = \binom{x}{y}\] then vector $$u^{\perp} = \binom{-y}{x}$$. It's a definition.
 </p>
 Given two lines, $$
